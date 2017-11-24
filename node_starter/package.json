@@ -1,0 +1,32 @@
+{
+  "name": "ioa_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongo.js",
+  "dependencies": {
+    "bcrypt-nodejs": "^0.0.3",
+    "body-parser": "^1.15.2",
+    "connect-multiparty": "^2.0.0",
+    "crypt": "^0.0.2",
+    "express": "^4.14.0",
+    "express-fileupload": "^0.0.6",
+    "ionic-push-server": "^1.1.1",
+    "ldapjs": "^1.0.1",
+    "log4js": "^2.2.0",
+    "md5": "^2.2.1",
+    "request": "^2.81.0",
+    "skipper": "^0.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "restful",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC"
+}
